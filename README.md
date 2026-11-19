@@ -38,8 +38,8 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ah24aki&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ah24aki&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ah24aki&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah24aki&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
