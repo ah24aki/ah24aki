@@ -31,9 +31,9 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [✈️ Airport Management System](https://github.com/ah24aki/Airport-Management-System) | Full-stack app: layered REST API for 7 airport resources with batch inserts, plus the SkyBase ERP admin dashboard | Spring Boot, JdbcTemplate, PostgreSQL, HTML/CSS/JS |
+| [🧾 FişMate](https://github.com/ah24aki/FisMate) | Receipt scanner & household expense tracker: on-device OCR, per-member budgets, CSV/PDF export, session auth with BCrypt | Flutter, Spring Boot, PostgreSQL |
 | [🧩 Dynamic API Generator](https://github.com/ah24aki/dynamic-api-generator) 🚧 | Discovers a database's schema at runtime; secured admin API, React panel in progress | Spring Boot, Spring Security, PostgreSQL |
 | [⛴️ Port & Ferry Simulation](https://github.com/ah24aki/Data-Structure-project) | Queue, stack and hash table written from scratch, visualised in JavaFX | Java, JavaFX |
-| 🧾 FişMate (repo coming soon) | Receipt management app – OCR turns receipt photos into structured expense data | Flutter, Spring Boot |
 
 ## 📊 GitHub stats
 
